@@ -33,4 +33,5 @@
 
 .springBeans
 /target/
-/target
+*/target/*
+*/target/**
